@@ -6,7 +6,8 @@
 
 **Server:** Node, Express
 
-##img ![image](https://user-images.githubusercontent.com/112754736/218391821-306043f1-45a8-4868-8ebb-9fcdb22d34fb.png)
+(![image](https://user-images.githubusercontent.com/112754736/218392012-aea5a9d7-76cc-41ea-bdba-5fa25f3d7df2.png)
+)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
@@ -14,11 +15,5 @@
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Crackit15340597)
 
 
-- 🔭 I’m currently working on ...Self
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 selflearner
+- 🌱 I’m currently learning - DataBase
