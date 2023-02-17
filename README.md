@@ -1,4 +1,4 @@
-# Hi, I'm Gauarvmaida 👋
+# Hi, I'm Gaurav maida 👋
 
 ## Tech Stack
 
