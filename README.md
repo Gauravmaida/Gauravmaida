@@ -1,8 +1,7 @@
 <h1 align="center">Hi I'am Gaurav Maida👋</h1>
-
+<img src="https://media.tenor.com/YNqsJbmb_yMAAAAd/coding.gif" align="right" width="400px"></img>
 # 💫 About Me:
 Graduate from B.A. Passionate about technology so learn technical skills in frontend Development. Seeking Opportunities in the field of Frontend Development So I enhance my skills, knowledge and experience.
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/gauravmeena_03/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurav-maida-3a66371b8/) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitter.com/Crackit15340597) 
